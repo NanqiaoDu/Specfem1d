@@ -1,0 +1,1 @@
+double rick(double t,double f0);
